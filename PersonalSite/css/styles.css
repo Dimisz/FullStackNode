@@ -1,0 +1,25 @@
+
+  body{
+    background-color: #EAF6F6;
+  }
+
+  h1, h3 {
+    color: #66BFBF;
+  }
+  hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: white;
+    border-width: 10px;
+    width: 30%;
+  }
+
+  img {
+    border-radius: 100%;
+  }
+
+  img:hover{
+    border-radius: 40%;
+    background-color: gold;
+  }
